@@ -57,9 +57,9 @@ module.exports = {
       provider: () =>
         new HDWalletProvider({
           mnemonic: {
-            phrase: "dirt cliff renew property feel simple verb wife garden habit flat assume"
+            phrase: mnemonic
           },
-          providerOrUrl: "https://rinkeby.infura.io/v3/43b86485d3164682b5d703fd1d39fe1c",
+          providerOrUrl: "https://rinkeby.infura.io/v3/" + projectId,
           shareNonce: true,
         }),
       network_id: '4',
