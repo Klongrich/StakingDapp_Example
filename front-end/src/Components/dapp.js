@@ -1,6 +1,4 @@
 import React, {useEffect, useState} from "react";
-import styled from "styled-components";
-
 import Web3 from "web3";
 
 import StakingABI from "./Staking.json";
@@ -221,9 +219,12 @@ export default function Dapp() {
                 to which you have staked. For Example if you have 15% of the ETH staked in the contract, at the time of the payout you would get 150 new coins. 
             </p>
 
-            <p>These coins are then used to help govern our platfrom while we used provided liquidty to increase funds of the contract, move around to gain MEV possiablity, or
-                Look for the best valut to be a part of at a given time. The token is for goverance, and can be used to redeam awesome merch at a discount.
+            <p>
+              From there you can chose to unstake your ETH at anytime or chose to leave it in the contract to gain for coins. However, you will be diluated out as more people
+              chose to stake ETH in the contract meaning you will receive less and less coins unless you chose to stake more ETH. 
             </p>
+
+            <br />
         </div>
         </>
     )
