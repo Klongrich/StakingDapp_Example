@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StakingDapp_Example/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/StakingDapp_Example/static/js/main.34502ca5.chunk.js",
+    "main.js.map": "/StakingDapp_Example/static/js/main.34502ca5.chunk.js.map",
+    "runtime-main.js": "/StakingDapp_Example/static/js/runtime-main.cc655e8a.js",
+    "runtime-main.js.map": "/StakingDapp_Example/static/js/runtime-main.cc655e8a.js.map",
+    "static/js/2.b996055a.chunk.js": "/StakingDapp_Example/static/js/2.b996055a.chunk.js",
+    "static/js/2.b996055a.chunk.js.map": "/StakingDapp_Example/static/js/2.b996055a.chunk.js.map",
+    "static/js/3.f6b07d0e.chunk.js": "/StakingDapp_Example/static/js/3.f6b07d0e.chunk.js",
+    "static/js/3.f6b07d0e.chunk.js.map": "/StakingDapp_Example/static/js/3.f6b07d0e.chunk.js.map",
+    "index.html": "/StakingDapp_Example/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/StakingDapp_Example/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b996055a.chunk.js.LICENSE.txt": "/StakingDapp_Example/static/js/2.b996055a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc655e8a.js",
+    "static/js/2.b996055a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.34502ca5.chunk.js"
+  ]
+}
