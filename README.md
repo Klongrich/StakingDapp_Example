@@ -3,7 +3,7 @@
 
 Small Demonstration of a staking dapp.
 
-Live Demo: https://github.com/Klongrich/StakingDapp_Example
+Live Demo: https://klongrich.github.io/StakingDapp_Example/
 
 # How it works: 
 
